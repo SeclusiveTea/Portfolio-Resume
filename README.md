@@ -1,2 +1,2 @@
-<a href="https://seclusivetea.github.io">Click here</a>
+<a href="https://seclusivetea.github.io/index.html">Click here</a>
 
